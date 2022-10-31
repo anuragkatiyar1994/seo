@@ -13,7 +13,7 @@ This is a hero page of a company which provides the SEO services to his clients.
 
 ## Deployed Link of the web page
 ---
-[Click to see the webpage](https://idyllic-cendol-7e6275.netlify.app/)
+[Click to see the webpage](https://gregarious-jelly-0a89ec.netlify.app)
 
 ## Author and Contact
 ---
